@@ -1,5 +1,10 @@
 # Customer Churn Analysis in R
 
+🚀 Logistic Regression Model  
+📊 Accuracy: 81%  
+📈 ROC-AUC: 0.86  
+
+This project predicts customer churn using a public Telco dataset and demonstrates end-to-end data analysis in R.
 ## Project Overview
 This project analyzes customer churn using a public Telco dataset.
 The goal is to predict whether a customer will cancel the service using logistic regression.
